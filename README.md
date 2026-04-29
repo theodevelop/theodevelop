@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=560&lines=Hi+there%2C+I'm+Th%C3%A9o+%F0%9F%91%8B;Software+Engineering+Student;VS+Code+Extension+%26+Compiler+Dev;Open+for+internship+%E2%80%94+Sept.+2026" alt="Typing SVG" />
 
-<h3>🎓 Engineering student @ EPITA &nbsp;·&nbsp; Looking for a 5–6 month internship starting September 2026</h3>
+<h3>🎓 Engineering student &nbsp;·&nbsp; Looking for a 5–6 month internship starting September 2026</h3>
 
 <a href="https://linkedin.com/in/theo-irujo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,8 +20,7 @@
 - 🔭 Currently building **[bison-flex-lang](https://github.com/theodevelop/bison-flex-lang)** — a full-featured VS Code extension for Bison & Flex with LSP diagnostics, autocompletion and hover docs
 - 🏢 At **Nateo Concepts** since 2023 — built a workflow automation tool in Electron/JS, then migrated it to a native Photoshop extension
 - 🌍 Built and deployed a multilingual website for **[My Pretty Family!](https://myprettyfamily.com)** — architecture, UI/UX, SEO & hosting
-- 🎓 Semester abroad @ **Dorset College Dublin** — Web & Mobile apps
-- 📍 Lyon, France · Open to remote & international opportunities
+- 📍 France · Open to remote & international opportunities
 - 📬 **irujotheo@gmail.com**
 
 ---
